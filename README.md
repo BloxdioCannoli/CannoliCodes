@@ -1,5 +1,5 @@
->[!IMPORTANT]
->Make sure to read the full file before doing anything else.
+> [!IMPORTANT]
+> Make sure to read the full file before doing anything else.
 
 # General Information
 
@@ -18,7 +18,7 @@ This repo includes codes from my videos after November 15, 2025. For my older re
 
 # Attribution
 > [!NOTE]
-> For all information, please read `LISCENSE.md`. This table is only a summary.
+> For all information, please read [`LISCENSE.md`](https://github.com/BloxdioCannoli/CannoliCodes/blob/main/LICENSE.md). This table is only a summary.
 
 &nbsp;|Video|Custom Game/World|
 ----|----|---------------------
@@ -28,3 +28,5 @@ Major|Mention @BloxdioCannoli in the video for at least 10 seconds*, in clear fo
 Central|Mention @BloxdioCannoli in the video for at least 15 seconds*, in clear font/typeface beginning at the 1-second mark<br><br>***and*** Mention @BloxdioCannoli in the title and comments|Clearly credit "@BloxdioCannoli on YT"** at the start of the gamemode/world and at least twice throughout the world <br><br>***and*** Include attribution in the description of the gamemode/world <br><br>***and*** Don't remove comments (/* credit to Bloxdio Cannoli on YT */) in the code used
 
 *If the video is shorter than the given time, you can display for the duration of the video.
+
+###### View the codes here at [`CODES.md`](https://github.com/BloxdioCannoli/CannoliCodes/blob/main/CODES.md).
