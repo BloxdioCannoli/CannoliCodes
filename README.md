@@ -1,2 +1,2 @@
-# CannoliCodes
-Includes codes from my vieos.
+# Info
+Includes codes from my videos after November 15, 2025
