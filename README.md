@@ -20,8 +20,6 @@ This repo includes codes from my videos after November 15, 2025. For my older re
 > [!NOTE]
 > For all information, please read `LISCENSE.md`. This table is only a summary.
 
-Please read over this table carefully.
-
 &nbsp;|Video|Custom Game/World|
 ----|----|---------------------
 Minor|Mention @BloxdioCannoli in the video|Clearly credit "@BloxdioCannoli on YT" at the start of the gamemode/world<br><br>***and*** Don't remove comments (/* credit to Bloxdio Cannoli on YT */) in the code used
