@@ -1,5 +1,5 @@
 # Bloxdio Cannoli Custom Attribution License (BCCAL)
-###### Copyright (c) 2025 Bloxdio Cannoli
+###### Copyright © 2025 Bloxdio Cannoli
 
 Permission is hereby granted to use, copy, modify, feature, or distribute the codes (the "Codes"), which were created by Bloxdio Cannoli (the "Author") only under the following conditions:
 
