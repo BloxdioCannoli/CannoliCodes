@@ -10,7 +10,7 @@ All published codes have been written by [@BloxdioCannoli on YT](https://www.you
 You can contact me at:
 - YouTube: [@BloxdioCannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg)
 - Discord: [@coding.cannoli](https://discord.com/users/1343816286702145619)
-- Reddit
+- Reddit: [Bloxdio Cannoli](https://www.reddit.com/user/BloxdioCannoli/)
 - Email: coding.cannoli@gmail.com
 
 ### Date Info
