@@ -4,8 +4,11 @@
 Permission is hereby granted to use, copy, modify, feature, or distribute the codes (the "Codes"), which were created by Bloxdio Cannoli (the "Author") only under the following conditions:
 
 ## 1. Attribution
+The levels of attribution required shall be marked above each code.
+
 &nbsp;|Video|Custom Game/World|
 ----|----|---------------------
+Exception| No credit is required| No credit is required
 Minor|Mention @BloxdioCannoli in the video|Clearly credit "@BloxdioCannoli on YT" at the start of the gamemode/world<br><br>***and*** Don't remove comments (`/* credit to Bloxdio Cannoli on YT */`) in the code used
 Medium|Mention @BloxdioCannoli in the video for at least 5 seconds*, in clear font/typeface beginning at the 3-second mark<br><br>***and*** Mention @BloxdioCannoli in the title or comments|Clearly credit "@BloxdioCannoli on YT"** at the start of the gamemode/world<br><br>***and*** Don't remove comments (`/* credit to Bloxdio Cannoli on YT */`) in the code used
 Major|Mention @BloxdioCannoli in the video for at least 10 seconds*, in clear font/typeface beginning at the 2-second mark<br><br>***and*** Mention @BloxdioCannoli in the title or comments|Clearly credit "@BloxdioCannoli on YT"** at the start of the gamemode/world <br><br>***and*** Include attribution in the description of the gamemode/world <br><br>***and*** Don't remove comments (`/* credit to Bloxdio Cannoli on YT */`) in the code used
