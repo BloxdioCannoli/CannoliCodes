@@ -17,6 +17,9 @@ You can contact me at:
 This repo includes codes from my videos after November 15, 2025. For my older released codes, please see the descriptions or pinned comments of my older videos.
 
 # Attribution
+> [!IMPORTANT]
+> The attribution level required is marked above each code.
+
 > [!NOTE]
 > For all information, please read [`LISCENSE.md`](https://github.com/BloxdioCannoli/CannoliCodes/blob/main/LICENSE.md). This table is only a summary.
 
